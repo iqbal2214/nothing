@@ -3,7 +3,7 @@
 import org.testng.annotations.Test;
 
 
-public class ForLearningGroupExecutionCampaign {
+public class ForLearningGroupExecutionCampaignTest {
 
 	
 	@Test(groups={"create","functionalTesting","smokeTesting"}) 

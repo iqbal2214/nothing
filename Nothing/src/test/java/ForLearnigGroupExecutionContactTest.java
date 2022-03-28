@@ -1,7 +1,7 @@
 
 
 import org.testng.annotations.Test;
-public class ForLearnigGroupExecutionContact {
+public class ForLearnigGroupExecutionContactTest {
 	
 	@Test(groups={"create","functionalTesting"})
 	public void createContactUsingLastName() {

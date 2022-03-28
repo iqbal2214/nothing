@@ -3,7 +3,7 @@
 import org.testng.annotations.Test;
 
 
-public class ForLearningGroupExecutionProduct {
+public class ForLearningGroupExecutionProductTest {
 
 	@Test(groups={"create","functionalTesting"})
 	public void createproductUsingProductName() {
